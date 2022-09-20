@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#1d5961",
   "logo": "/img/uploads/mkmk-sem-fundo.png",
   "name": "mkbytest",
   "short_name": "mkbytest",
@@ -14,12 +14,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/mkmk-sem-fundo.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#171616",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/mkmk-sem-fundo.png",
   "store_id": 24308,
   "description": "MkByte S.T",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/mkmk-sem-fundo.png"
 }
