@@ -1,5 +1,6 @@
 {
-  "domain": "mkbytest.netlify.app",
+  "domain": "www.mkbytest.com.br",
+  "repository": "ecomplus-stores/mkbytest",
   "currency_symbol": "R$",
   "primary_color": "#161515",
   "theme": {
