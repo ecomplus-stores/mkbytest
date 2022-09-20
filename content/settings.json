@@ -1,7 +1,7 @@
 {
   "domain": "mkbytest.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#161515",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,11 +15,11 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#171616",
   "icon": "/img/icon.png",
   "store_id": 24308,
-  "description": "mkbytest",
+  "description": "MkByte S.T",
   "large_icon": "/img/large-icon.png"
 }
