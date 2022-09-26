@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 4000,
       "full_width": false,
       "slides": [
         {
@@ -26,6 +26,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/bone-se-site-24-09-22-ok-ok.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banners-pc-gamer.png"
         }
       ]
     },
