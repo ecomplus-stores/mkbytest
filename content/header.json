@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50% + 8% No Pagamentos em Pix",
-    "link": "/promotionmkmk"
+    "link": "/promotionmkmk",
+    "color": "#040404"
   },
   "contacts_stripe": {
     "pages": [
