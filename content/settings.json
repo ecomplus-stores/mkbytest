@@ -1,13 +1,13 @@
 {
   "domain": "www.mkbytest.com.br",
-  "repository": "ecomplus-stores/mkbytest",
   "currency_symbol": "R$",
   "primary_color": "#161515",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-game"
   },
   "bg_color": "#1d5961",
+  "repository": "ecomplus-stores/mkbytest",
   "logo": "/img/uploads/mkmk-sem-fundo.png",
   "name": "mkbytest",
   "short_name": "mkbytest",
