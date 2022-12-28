@@ -1,15 +1,16 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "title": "Entregamos em todos Fortaleza,maracanaú,caucaia,maranguape,eusébio em ate 4horas no dias úteis Enviamos para todo Brasil "
   },
   "installments": {
     "show": true,
-    "text": "Parcele 12x s/Juros"
+    "text": "Parcele 5x s/Juros"
   },
   "exchange": {
     "show": true,
-    "text": "preços incomparável"
+    "text": "Preços incomparável"
   },
   "promo": {
     "show": true,
