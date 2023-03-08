@@ -6,7 +6,7 @@
     "bootswatch": "flatly",
     "custom": "niche-game"
   },
-  "bg_color": "#1d5961",
+  "bg_color": "#e1e9e9",
   "repository": "ecomplus-stores/mkbytest",
   "logo": "/img/uploads/mkmk-sem-fundo.png",
   "name": "MkByteST",
