@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/3.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-atendimento-site.webp"
         },
         {
@@ -21,11 +26,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/2.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/3.png"
         }
       ]
     },
