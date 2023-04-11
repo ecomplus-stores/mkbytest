@@ -1,12 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "",
-    "title": "Entregamos Full em Fortaleza,maracanaú,caucaia,maranguape,eusébio em ate 4horas no dias úteis Enviamos para todo Brasil "
+    "text": "Enviamos para todo Brasil",
+    "title": "Entregamos Full em até 4horas no dias úteis Fortaleza,maracanaú, Enviamos para todo Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele suas Compras em até 12x Cartão de crédito"
+    "text": "Parcele suas Compras em até 12x no Cartão de crédito"
   },
   "exchange": {
     "show": true,
