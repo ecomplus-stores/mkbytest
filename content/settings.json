@@ -4,7 +4,7 @@
   "primary_color": "#060606",
   "theme": {
     "bootswatch": "_",
-    "custom": "niche-game"
+    "custom": "_"
   },
   "bg_color": "#e1e9e9",
   "repository": "ecomplus-stores/mkbytest",
