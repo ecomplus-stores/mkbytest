@@ -15,6 +15,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/frente.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/gabinete-gamer-mini-tampa-de-acrilico-led-rgb-mod3013.jpg"
         },
         {
@@ -41,11 +46,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/mesa-e-cadeira-banner-.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/frente.jpg"
         }
       ]
     },
