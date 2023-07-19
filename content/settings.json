@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/mkbytest",
   "logo": "/img/uploads/teste_022-removebg-preview.png",
   "name": "MkByteST",
-  "short_name": "MkByte S.T ",
+  "short_name": "MkByte ST ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#171616",
   "icon": "/img/uploads/teste_022-removebg-preview.png",
   "store_id": 24308,
-  "description": "MkByte S.T ",
+  "description": "MkByte ST ",
   "large_icon": "/img/uploads/teste_022-removebg-preview.png"
 }
