@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".prices__value:after {\ncontent: \"no pix\";\nfont-size: 17px;\n}",
   "html_head": "",
   "html_body": ""
 }
