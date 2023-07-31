@@ -25,12 +25,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/_-ssd-s-ceamere-banner.png",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/cooler-pprocessador-gt-1151-1150-1155-1156-.jpg"
         },
         {
@@ -62,6 +56,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/fonte-atx-350w-real-s-cabo-goldentec.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/_-ssd-s-ceamere-banner.png"
         }
       ]
     },
