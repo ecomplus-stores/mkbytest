@@ -20,6 +20,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/_banner-placa-mae-intel-e-amd.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/cooler-pprocessador-gt-1151-1150-1155-1156-.jpg"
         },
         {
@@ -36,11 +41,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/fonte-atx-350w-real-s-cabo-goldentec.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/_banner-placa-mae-intel-e-amd.jpg"
         }
       ]
     },
