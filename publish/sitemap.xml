@@ -110,12 +110,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/goldentec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/mouse-gamer-knup-kp-mu003</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1700,6 +1694,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/goldentec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1718,13 +1718,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
+      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
+      <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
