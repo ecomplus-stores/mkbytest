@@ -626,12 +626,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/memoria-ddr4-1x8gb-3200-mhz-asgard-rgb</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/cooler-fan-rise-mode-black-80mm-preto---rm-bk-02-fb</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1143,12 +1137,6 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/cpu-i5-mk-8-gb-rgb-1g--da-oferta-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/memoria-ddr4-8gb-2400mhz-para-desktop</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1910,13 +1898,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
