@@ -1238,12 +1238,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/ssd-redragon-480gb-sata-25-leitura-550mbs-e-gravacao-470mbs-preto</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/processador-775-intel-core-2-duo-e8400-300-ghz</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1419,12 +1413,6 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/cpu-i5-mk-8-gb-rgb-1g--da-oferta--c283</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/gabinete-goldentec-gt-sf-1-baias-preto-sem-fonte-c649</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1653,12 +1641,6 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/suporte-fixed-tv-suporte-de-metal-para-tv</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/monitor-gt-185-com-cabo-de-forca--sem-cabo-vga</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
