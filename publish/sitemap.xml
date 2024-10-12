@@ -914,12 +914,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/placa-s1150-h81-ddr3-m2-goldentec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/impressora-nao-fiscal-termica-80mm-usb-rede-com-guilhotina--mdk-080</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1916,13 +1910,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
+      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
