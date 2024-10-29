@@ -8,6 +8,11 @@
       "full_width": false,
       "slides": [
         {
+          "start": "2024-10-29T13:12:16.066Z",
+          "end": "2024-10-31T03:00:00.000Z",
+          "img": "/img/uploads/29.jpg"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/placa-de-video-gtx-550ti-4gb-ddr5-128bits.jpg"
@@ -31,11 +36,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/placa-de-video-gt730-4gb-ddr3-protoo.jpg"
-        },
-        {
-          "start": "2024-10-29T13:12:16.066Z",
-          "end": "2024-10-31T03:00:00.000Z",
-          "img": "/img/uploads/29.jpg"
         }
       ]
     },
