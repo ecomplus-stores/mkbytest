@@ -116,6 +116,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/goldentec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/mouse-gamer-knup-kp-mu003</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1478,12 +1484,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/teclado-vxpro-vxkb110-usb-com-fio</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/impressora-multifuncional-epson-ecotank-l3250-colorida-wifi-wireless-usb-bivolt-preta---c11cj67303-c874</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1871,12 +1871,6 @@
       <loc>https://www.mkbytest.com.br/switch-8-portas-rj-45-rede-acompanha-fonte-de-alimentacao-alta-velocidade-kpe08b</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/goldentec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
