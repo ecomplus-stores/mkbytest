@@ -692,6 +692,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/cadeira-gamer-ninja-jiraya</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/placa-mae-a320-am4-amd-ryzen-lan-10100-32gb-6-gbs-usb-30</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -747,6 +753,12 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/microfone-knup-kp-917-condensador-omnidirecional-pretocinza</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/cadeira-gamer-ninja-hiryu-preto-e-vermelho</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1898,13 +1910,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
