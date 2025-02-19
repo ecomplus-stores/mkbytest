@@ -656,12 +656,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/placa-mae-s1151-h310c-ddr4--gt-p-8-e-9g</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/gabinete-gamer-aerocool--pink--vidro-temperado-trinity-mini-g-pkv1</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1886,13 +1880,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1964,15 +1958,15 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
