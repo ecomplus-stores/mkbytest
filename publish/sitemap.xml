@@ -1874,24 +1874,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1910,6 +1892,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1917,6 +1905,18 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1952,13 +1952,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/admin/index</loc>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <loc>https://www.mkbytest.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
