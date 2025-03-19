@@ -284,12 +284,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/adaptador-conector-dvi-digital-macho-241-para-hdmi-femea-c459</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/antena-wi-fi-adaptador-wireless-150mbs-usb-pc-notebook-c188</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1964,13 +1958,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <loc>https://www.mkbytest.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/admin/index</loc>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
