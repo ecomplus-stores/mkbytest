@@ -866,12 +866,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/fonte-atx-gt-c-avaria-sem-cabo-de-forca-c713-c399-c371-c810</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/fonte-atx-gt-c-avaria-sem-cabo-de-forca-c713-c399-c371-c384-c557</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1167,12 +1161,6 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/memoria-ddr4-8gb-2400mhz-para-desktop-c383</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/headset-gamer-com-microfone-conexao-p3-leboss---lb-fn606</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1916,6 +1904,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/ssd-crucial-bx500-25-480gb-sata-iii-500-mbs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/goldentec</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1934,13 +1928,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
+      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
