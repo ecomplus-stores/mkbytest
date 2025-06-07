@@ -740,12 +740,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/processador-amd-athlon-3000g-de-2-nucleos-e-35ghz-vega-3--2gb-c965-c331-c535-c474</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/pc-gamer-mk-amd-ryzen-5-5600g-vega-7-16gb-ddr4-ssd-120gb-hd-500gb-fonte-700w-c916</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1916,13 +1910,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
