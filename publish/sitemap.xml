@@ -1622,12 +1622,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/ssd-240-gb-gt-goldentec--sata-iii-25-disco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/gabinete-gt-sf--cavarias--s-caixa-c888-c266-c527-c229</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1940,13 +1934,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
+      <loc>https://www.mkbytest.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/sobre-nos</loc>
+      <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
