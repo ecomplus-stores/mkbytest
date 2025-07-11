@@ -362,12 +362,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/fonte-atx-gt-c-avaria-sem-cabo-de-forca-c713-c399-c371</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/hd-seagate-pipeline--500gb-c468</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1946,12 +1940,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1959,6 +1947,12 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/pages/sobre-nos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
