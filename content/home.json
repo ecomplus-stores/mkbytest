@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-para-o-site-.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/_bannergabinete-3012-ou-3013.jpg"
         },
         {
@@ -41,11 +46,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/teclado-e-mouse-gamer-banner-1-.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-para-o-site-.jpg"
         }
       ]
     },
