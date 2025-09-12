@@ -1274,12 +1274,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/mini-leitor-de-cartao-micro-sdm2-adaptador-usb-20-pendrive</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/power-bank-10000-mah-3-portas-usb-com-display-lcd-inova---pow-1067</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1994,13 +1988,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/admin/index</loc>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <loc>https://www.mkbytest.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
