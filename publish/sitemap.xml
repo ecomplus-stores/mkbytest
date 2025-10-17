@@ -746,12 +746,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/mousepad-borda-costurada-duravel-extra-grande-gamer-80x30-c949</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/antena-wi-fi-adaptador-wireless-150mbs-usb-pc-notebook-c188-c401</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1376,12 +1370,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/case-para-hd-transparente-sata-25-hdssd-usb-30-5gpbs-03371---cghd-35</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/case-knup-p-ssd-m2-com-usb-30-e-type-c---hd838</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1952,13 +1940,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
+      <loc>https://www.mkbytest.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/sobre-nos</loc>
+      <loc>https://www.mkbytest.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2006,13 +1994,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/admin/index</loc>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <loc>https://www.mkbytest.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
