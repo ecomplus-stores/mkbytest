@@ -344,12 +344,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/parafusadeira-portatil-uso-domestico-multiuso-aa-038-knup---kp</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/gabinete-gamer-1749-lateral-e-frontal-em-vidro-c-4-fans-rgb</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -945,12 +939,6 @@
   
     <url>
       <loc>https://www.mkbytest.com.br/monitor-led-154-polegadas-vgahdmi-vesa-cor-preto-110v220v</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/blusa-masculina-modelo-aleatorio</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1796,6 +1784,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/pc-gamer-mk-completo--intel-core-i5--16gb-ddr3--ssd-240gb--monitor-19-kit-perifericos-c402</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/mouse</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2000,13 +1994,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/admin/index</loc>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <loc>https://www.mkbytest.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
