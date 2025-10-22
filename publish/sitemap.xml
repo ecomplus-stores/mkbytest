@@ -98,12 +98,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/fan-cooler-gamer-140mm-x-140mm--dex---dx-14t-cled-azul</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/cartao-de-memoria-64gb-com-adaptador-sd</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1802,6 +1796,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/pc-gamer-completo-gt-730-4gb--intel-core-i5--16gb-ddr3--ssd-256gb--monitor-21--kit-gamer-c101-c326-c865-c713-c975</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/mouse</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2012,15 +2012,15 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
