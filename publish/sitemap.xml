@@ -122,6 +122,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/goldentec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/mouse-gamer-knup-kp-mu003</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1913,12 +1919,6 @@
       <loc>https://www.mkbytest.com.br/headset-gamer-tgt-diver-v2-rainbow-drivers-40mm-preto-tgt-dvr-rgb02</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.mkbytest.com.br/goldentec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
