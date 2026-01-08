@@ -1784,12 +1784,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/goldentec</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/mouse</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1910,6 +1904,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/goldentec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1988,13 +1988,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/app/index</loc>
+      <loc>https://www.mkbytest.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/admin/index</loc>
+      <loc>https://www.mkbytest.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
