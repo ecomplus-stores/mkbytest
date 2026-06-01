@@ -1784,6 +1784,12 @@
     </url>
   
     <url>
+      <loc>https://www.mkbytest.com.br/carregador-completo-carregador-completo-iphone-tipo-c-v8-usb</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.mkbytest.com.br/mouse</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1916,13 +1922,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/faq</loc>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <loc>https://www.mkbytest.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
