@@ -1,7 +1,7 @@
 {
   "domain": "www.mkbytest.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#060606",
+  "primary_color": "#054af5",
   "theme": {
     "bootswatch": "flatly",
     "custom": "_"
