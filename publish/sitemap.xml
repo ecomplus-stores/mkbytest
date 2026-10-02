@@ -1934,13 +1934,13 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/contato</loc>
+      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/pages/entrega</loc>
+      <loc>https://www.mkbytest.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1988,12 +1988,6 @@
     </url>
   
     <url>
-      <loc>https://www.mkbytest.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.mkbytest.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2003,6 +1997,12 @@
       <loc>https://www.mkbytest.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.mkbytest.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
