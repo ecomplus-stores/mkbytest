@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.2bd97a51d29a6d9514ac93c92e10b0d2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7d7d5ff0caba40d8dba9d465ff15dfc3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9bb5af66436e38fc5f74a73ccbf3479e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.af321ce856aca14f76f94cdc23cef813.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e7fcb5fa1576ba95292e419471b79752.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "MkByteST",
+  "short_name": "MkByte ST ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "MkByte ST ",
+  "background_color": "#e1e9e9",
+  "theme_color": "#054af5"
+}
